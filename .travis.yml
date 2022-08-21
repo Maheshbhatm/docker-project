@@ -22,3 +22,4 @@ deploy:
   bucket_path: "docker_project"
   on:
     branch: master
+    
