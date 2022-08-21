@@ -23,5 +23,5 @@ deploy:
   on:
     branches:    # ← new!
       only:      # ← new!
-        - master # ← new!
+        - main # ← new!
     
