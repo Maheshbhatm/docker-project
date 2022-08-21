@@ -21,7 +21,6 @@ deploy:
   bucket_name: "elasticbeanstalk-us-east-1-214331254068"
   bucket_path: "docker_project"
   on:
-    branches:    # ← new!
-      only:      # ← new!
-        - main # ← new!
+    branches: master
+    
     
